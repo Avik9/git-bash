@@ -1,0 +1,238 @@
+time is 16_40_55
+26 files will be created! at 16_40_55
+
+Already up to date.
+[master 08fa335] Created 2020_03_10_16_40_55.txt
+ 2 files changed, 4 insertions(+), 419 deletions(-)
+ rename files/{2020_03_09_21_44_24.txt => 2020_03_10_16_40_55.txt} (100%)
+ rewrite progress.txt (99%)
+To https://github.com/Avik9/git_bash_script.git
+   c6f0bda..08fa335  master -> master
+
+25 files are left!
+
+Already up to date.
+[master 47f2204] Created 2020_03_10_16_41_00.txt
+ 2 files changed, 10 insertions(+)
+ rename files/{2020_03_10_16_40_55.txt => 2020_03_10_16_41_00.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   08fa335..47f2204  master -> master
+
+24 files are left!
+
+Already up to date.
+[master cb09eaa] Created 2020_03_10_16_41_05.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_00.txt => 2020_03_10_16_41_05.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   47f2204..cb09eaa  master -> master
+
+23 files are left!
+
+Already up to date.
+[master 008d3aa] Created 2020_03_10_16_41_11.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_05.txt => 2020_03_10_16_41_11.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   cb09eaa..008d3aa  master -> master
+
+22 files are left!
+
+Already up to date.
+[master cc3834b] Created 2020_03_10_16_41_16.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_11.txt => 2020_03_10_16_41_16.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   008d3aa..cc3834b  master -> master
+
+21 files are left!
+
+Already up to date.
+[master 69b87dd] Created 2020_03_10_16_41_22.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_16.txt => 2020_03_10_16_41_22.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   cc3834b..69b87dd  master -> master
+
+20 files are left!
+
+Already up to date.
+[master c72732a] Created 2020_03_10_16_41_28.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_22.txt => 2020_03_10_16_41_28.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   69b87dd..c72732a  master -> master
+
+19 files are left!
+
+Already up to date.
+[master a49f69f] Created 2020_03_10_16_41_33.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_28.txt => 2020_03_10_16_41_33.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   c72732a..a49f69f  master -> master
+
+18 files are left!
+
+Already up to date.
+[master 7a565e4] Created 2020_03_10_16_41_39.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_33.txt => 2020_03_10_16_41_39.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   a49f69f..7a565e4  master -> master
+
+17 files are left!
+
+Already up to date.
+[master f51b0e1] Created 2020_03_10_16_41_44.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_39.txt => 2020_03_10_16_41_44.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   7a565e4..f51b0e1  master -> master
+
+16 files are left!
+
+Already up to date.
+[master 43b4087] Created 2020_03_10_16_41_49.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_44.txt => 2020_03_10_16_41_49.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   f51b0e1..43b4087  master -> master
+
+15 files are left!
+
+Already up to date.
+[master fddd7e8] Created 2020_03_10_16_41_55.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_49.txt => 2020_03_10_16_41_55.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   43b4087..fddd7e8  master -> master
+
+14 files are left!
+
+Already up to date.
+[master e1d9dbf] Created 2020_03_10_16_42_00.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_41_55.txt => 2020_03_10_16_42_00.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   fddd7e8..e1d9dbf  master -> master
+
+13 files are left!
+
+Already up to date.
+[master 113d4cf] Created 2020_03_10_16_42_05.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_00.txt => 2020_03_10_16_42_05.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   e1d9dbf..113d4cf  master -> master
+
+12 files are left!
+
+Already up to date.
+[master e0180a5] Created 2020_03_10_16_42_11.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_05.txt => 2020_03_10_16_42_11.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   113d4cf..e0180a5  master -> master
+
+11 files are left!
+
+Already up to date.
+[master 624dd8e] Created 2020_03_10_16_42_16.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_11.txt => 2020_03_10_16_42_16.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   e0180a5..624dd8e  master -> master
+
+10 files are left!
+
+Already up to date.
+[master f756d30] Created 2020_03_10_16_42_21.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_16.txt => 2020_03_10_16_42_21.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   624dd8e..f756d30  master -> master
+
+9 files are left!
+
+Already up to date.
+[master 2e6fb7c] Created 2020_03_10_16_42_26.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_21.txt => 2020_03_10_16_42_26.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   f756d30..2e6fb7c  master -> master
+
+8 files are left!
+
+Already up to date.
+[master d0ad228] Created 2020_03_10_16_42_32.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_26.txt => 2020_03_10_16_42_32.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   2e6fb7c..d0ad228  master -> master
+
+7 files are left!
+
+Already up to date.
+[master 5371f40] Created 2020_03_10_16_42_37.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_32.txt => 2020_03_10_16_42_37.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   d0ad228..5371f40  master -> master
+
+6 files are left!
+
+Already up to date.
+[master fd16b2e] Created 2020_03_10_16_42_42.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_37.txt => 2020_03_10_16_42_42.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   5371f40..fd16b2e  master -> master
+
+5 files are left!
+
+Already up to date.
+[master 623ebb5] Created 2020_03_10_16_42_47.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_42.txt => 2020_03_10_16_42_47.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   fd16b2e..623ebb5  master -> master
+
+4 files are left!
+
+Already up to date.
+[master 7eabb0e] Created 2020_03_10_16_42_53.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_47.txt => 2020_03_10_16_42_53.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   623ebb5..7eabb0e  master -> master
+
+3 files are left!
+
+Already up to date.
+[master 15e7178] Created 2020_03_10_16_42_58.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_53.txt => 2020_03_10_16_42_58.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   7eabb0e..15e7178  master -> master
+
+2 files are left!
+
+Already up to date.
+[master 0675517] Created 2020_03_10_16_43_03.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_42_58.txt => 2020_03_10_16_43_03.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   15e7178..0675517  master -> master
+
+1 files are left!
+
+Already up to date.
+[master d963f59] Created 2020_03_10_16_43_10.txt
+ 2 files changed, 9 insertions(+)
+ rename files/{2020_03_10_16_43_03.txt => 2020_03_10_16_43_10.txt} (100%)
+To https://github.com/Avik9/git_bash_script.git
+   0675517..d963f59  master -> master
+
+0 files are left!
+
